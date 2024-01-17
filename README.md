@@ -1,4 +1,4 @@
-# euclid-Gilang
+# euclid-Golang
 Euclid's Algorithm Implementation in Golang
 
 ```
